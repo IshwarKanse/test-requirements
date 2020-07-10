@@ -1,0 +1,3 @@
+- name: myrole
+  src: https://github.com/IshwarKanse/testrole.git
+  version: master
