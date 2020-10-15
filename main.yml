@@ -3,9 +3,5 @@
   connection: local
   gather_facts: false
 
-  vars:
-    file_contents: "{{lookup('file', '../requirements_roles/myrole/tasks/main.yml')}}"
-
-  tasks:
-  - debug:
-      var: file_contents
+  roles:
+  - myrole
