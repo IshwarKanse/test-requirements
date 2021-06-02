@@ -1,3 +1,3 @@
 - name: myrole
   src: https://github.com/IshwarKanse/testrole.git
-  version: master
+  version: b1c323907e9e44e0c8c54e14fde7d362bde98dc8
